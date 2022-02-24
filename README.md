@@ -49,7 +49,7 @@
 - LinkedIn: [Tshephang Mampa](https://linkedin.com/tshephangmampa)
 - Twitter: [Tshephangm\_](https://twitter.com/tshephangm_)
 
-👤 **Author2**
+👤 **Omar Rashad**
 
 - GitHub: [@od-c0der](https://github.com/od-c0d3r)
 - LinkedIn: [Omar Rashad](https://linkedin.com/in/omarrashad)
